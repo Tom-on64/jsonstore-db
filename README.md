@@ -85,8 +85,8 @@ db.remove("path/to/remove");
 
 ### Contributing
 
-If you find issues or have suggestions for improvements, feel free to contribute by opening an issue or creating a pull request in the [GitHub repository](https://github.com/Tom-on64/jsonbase).
+If you find issues or have suggestions for improvements, feel free to contribute by opening an issue or creating a pull request in the [GitHub repository](https://github.com/Tom-on64/jsonbase/issues).
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tom-on64/jsonbase/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tom-on64/jsonbase/blob/main/LICENSE) file for details.
