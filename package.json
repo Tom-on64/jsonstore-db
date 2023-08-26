@@ -1,0 +1,13 @@
+{
+  "name": "jsonbase",
+  "version": "1.0.0",
+  "description": "A simple and fast JSON database with listeners.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "keywords": ["database", "javascript", "json"],
+  "author": "Tom-on",
+  "license": "ISC"
+}
