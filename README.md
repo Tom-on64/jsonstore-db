@@ -1,8 +1,8 @@
-# JSONBase
+# JSONStore
 
 ---
 
-JSONBase is a simple JSON Database.
+JSONStore is a simple JSON Database.
 
 It provides the following features:
 
@@ -15,22 +15,22 @@ It provides the following features:
 
 ### Installation
 
-Install JSONBase using npm:
+Install JSONStore using npm:
 
 ```sh
-npm install jsonbase
+npm install jsonstore-db
 ```
 
 ### Usage
 
-To get started with JSONBase, follow these steps:
+To get started with JSONStore, follow these steps:
 
-1. **Import JSONBase**
+1. **Import JSONStore**
 
-Import the JSONBase class and create an instance of the database with a specified file path.
+Import the Database class and create an instance of the database with a specified file path.
 
 ```js
-import Database from "jsonbase";
+import Database from "jsonstore-db";
 
 // Create an instance of Database saved in 'file/path.json'
 const db = new Database("file/path.json");
@@ -50,7 +50,7 @@ console.log(db.get("foo")); // Output: 'bar'
 
 3. **Array Handling**
 
-JSONBase supports array handling operations like push and pop.
+JSONStore supports array handling operations like push and pop.
 
 ```js
 // Push a value to an array
@@ -85,8 +85,8 @@ db.remove("path/to/remove");
 
 ### Contributing
 
-If you find issues or have suggestions for improvements, feel free to contribute by opening an issue or creating a pull request in the [GitHub repository](https://github.com/Tom-on64/jsonbase/issues).
+If you find issues or have suggestions for improvements, feel free to contribute by opening an issue or creating a pull request in the [GitHub repository](https://github.com/Tom-on64/jsonstore-db/issues).
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tom-on64/jsonbase/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tom-on64/jsonstore-db/blob/main/LICENSE) file for details.

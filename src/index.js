@@ -1,6 +1,9 @@
 import { existsSync, readFileSync, writeFileSync } from "fs";
 
-export default class Jsonbase {
+/**
+ * The JSONStore Database
+ */
+export default class Jsonstore {
     constructor(path = "database.json") {
         this.filename = path;
 

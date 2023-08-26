@@ -1,7 +1,7 @@
 {
-  "name": "jsonbase",
+  "name": "jsonstore-db",
   "version": "1.0.0",
-  "description": "A simple and fast JSON database.",
+  "description": "JSONStore is a simple and fast JSON database.",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tom-on64/jsonbase.git"
+    "url": "https://github.com/Tom-on64/jsonstore-db.git"
   },
   "keywords": [
     "database",
@@ -21,7 +21,7 @@
     "package"
   ],
   "bugs": {
-    "url": "https://github.com/Tom-on64/jsonbase/issues"
+    "url": "https://github.com/Tom-on64/jsonstore-db/issues"
   },
-  "homepage": "https://github.com/Tom-on64/jsonbase#README"
+  "homepage": "https://github.com/Tom-on64/jsonstore-db#README"
 }
