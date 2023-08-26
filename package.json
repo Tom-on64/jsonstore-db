@@ -1,13 +1,27 @@
 {
   "name": "jsonbase",
   "version": "1.0.0",
-  "description": "A simple and fast JSON database with listeners.",
+  "description": "A simple and fast JSON database.",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "test": "node src/test.js"
   },
-  "keywords": ["database", "javascript", "json"],
   "author": "Tom-on",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tom-on64/jsonbase.git"
+  },
+  "keywords": [
+    "database",
+    "javascript",
+    "json",
+    "npm",
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/Tom-on64/jsonbase/issues"
+  },
+  "homepage": "https://github.com/Tom-on64/jsonbase#README"
 }
